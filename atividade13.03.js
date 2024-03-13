@@ -50,5 +50,5 @@ printAll();
 
 /*
 para esta atividade não vi dificuldades, apenas na hora de usar loop 'for in'-'for of', 
-normalmente tenho que testar para lembrar qual busca pelo indice, qual pelo valor.
+normalmente tenho que testar para lembrar qual usa o indice, qual o valor.
 */
